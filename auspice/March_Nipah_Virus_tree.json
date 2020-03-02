@@ -1,0 +1,1898 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Bangladesh",
+    "country_confidence": {
+      "Bangladesh": 0.4312728657592997,
+      "Cambodia": 0.26578683326590075,
+      "India": 0.024617558866997246,
+      "Malaysia": 0.26146649366905517
+    },
+    "country_entropy": 1.2256496653340492,
+    "date": "1950-10-30",
+    "div": 0,
+    "num_date": 1950.8304113814545,
+    "num_date_confidence": [
+      1884.7128808319746,
+      1982.0459731026872
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.0017255657578617862,
+        "country": "Cambodia",
+        "country_confidence": {
+          "Bangladesh": 0.08596096882391113,
+          "Cambodia": 0.455416665076053,
+          "India": 0.006879047644052923,
+          "Malaysia": 0.4469313152510033
+        },
+        "country_entropy": 0.9890098266765779,
+        "date": "1985-03-18",
+        "div": 0.0013801530193213016,
+        "num_date": 1985.2113711375243,
+        "num_date_confidence": [
+          1962.8559267125554,
+          1994.7256566574883
+        ]
+      },
+      "branch_length": 0.00172557,
+      "children": [
+        {
+          "aa_muts": {
+            "Nvgp1": [
+              "I502T",
+              "E511G",
+              "L518P"
+            ]
+          },
+          "attr": {
+            "accession": "MK801755",
+            "clock_length": 0.0008929411338072955,
+            "country": "Cambodia",
+            "country_confidence": {
+              "Cambodia": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2003-01-01",
+            "div": 0.0025196094342845475,
+            "num_date": 2003.002737850787,
+            "num_date_confidence": [
+              2003.002737850787,
+              2003.8906864384217
+            ],
+            "raw_date": "2003-XX-XX"
+          },
+          "branch_length": 0.00089294,
+          "clade": 0,
+          "muts": [
+            "G181A",
+            "C439T",
+            "C568T",
+            "G619A",
+            "A691G",
+            "C703T",
+            "G727A",
+            "A790G",
+            "C889T",
+            "C1093T",
+            "C1162T",
+            "T1171C",
+            "T1237C",
+            "T1498C",
+            "T1617C",
+            "C1621T",
+            "A1644G",
+            "T1665C"
+          ],
+          "strain": "MK801755",
+          "yvalue": 35
+        },
+        {
+          "aa_muts": {
+            "Nvgp1": [
+              "V429I",
+              "E432G",
+              "D457N",
+              "T521A"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0006933357494849823,
+            "country": "Malaysia",
+            "country_confidence": {
+              "Bangladesh": 0.001524545178405296,
+              "Cambodia": 0.008300894467263212,
+              "Malaysia": 0.989865231866314
+            },
+            "country_entropy": 0.06245585793179578,
+            "date": "1999-01-09",
+            "div": 0.0021596025398217425,
+            "num_date": 1999.025709068074,
+            "num_date_confidence": [
+              1998.1835965785147,
+              1999.9164661565455
+            ]
+          },
+          "branch_length": 0.00069334,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY425646",
+                "clock_length": 4.000553731867574e-05,
+                "country": "Malaysia",
+                "country_confidence": {
+                  "Malaysia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "1999-10-27",
+                "div": 0.0021596025398217425,
+                "num_date": 1999.8227976532564,
+                "num_date_confidence": [
+                  1999.002737850787,
+                  1999.9993155373031
+                ],
+                "raw_date": "1999-XX-XX"
+              },
+              "branch_length": 4.001e-05,
+              "clade": 1,
+              "muts": [],
+              "strain": "KY425646",
+              "yvalue": 34
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY425655",
+                "clock_length": 4.000553731867574e-05,
+                "country": "Malaysia",
+                "country_confidence": {
+                  "Malaysia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "1999-10-27",
+                "div": 0.0021596025398217425,
+                "num_date": 1999.8227976532564,
+                "num_date_confidence": [
+                  1999.002737850787,
+                  1999.9993155373031
+                ],
+                "raw_date": "1999-XX-XX"
+              },
+              "branch_length": 4.001e-05,
+              "clade": 2,
+              "muts": [],
+              "strain": "KY425655",
+              "yvalue": 33
+            }
+          ],
+          "clade": 3,
+          "muts": [
+            "T334C",
+            "G451A",
+            "G520A",
+            "G538A",
+            "T802C",
+            "T877C",
+            "G1075A",
+            "A1156G",
+            "C1333T",
+            "G1397A",
+            "A1407G",
+            "G1481A",
+            "T1567A",
+            "A1673G"
+          ],
+          "strain": "NODE_0000001",
+          "yvalue": 33.5
+        }
+      ],
+      "clade": 4,
+      "muts": [],
+      "strain": "NODE_0000005",
+      "yvalue": 34.25
+    },
+    {
+      "aa_muts": {
+        "Nvgp1": [
+          "D387N",
+          "R505K",
+          "T506D",
+          "G508R"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.002449560612840562,
+        "country": "Bangladesh",
+        "country_confidence": {
+          "Bangladesh": 0.993119779160586,
+          "Cambodia": 0.0027486237651622356,
+          "Malaysia": 0.0027122706886766592
+        },
+        "country_entropy": 0.049303904312972206,
+        "date": "1999-08-20",
+        "div": 0.002884408743965182,
+        "num_date": 1999.6365750796049,
+        "num_date_confidence": [
+          1994.2023490975953,
+          2003.6249646844888
+        ]
+      },
+      "branch_length": 0.00244956,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0006631182822990989,
+            "country": "Bangladesh",
+            "country_confidence": {
+              "Bangladesh": 0.9997461704341412
+            },
+            "country_entropy": 0.002693406883390883,
+            "date": "2012-11-06",
+            "div": 0.002884408743965182,
+            "num_date": 2012.8488464018465,
+            "num_date_confidence": [
+              2009.7538048874142,
+              2014.4739015259033
+            ]
+          },
+          "branch_length": 0.00066312,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY887670",
+                "clock_length": 5.791332140545383e-05,
+                "country": "Bangladesh",
+                "country_confidence": {
+                  "Bangladesh": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-01-01",
+                "div": 0.002884408743965182,
+                "num_date": 2014.002737850787,
+                "num_date_confidence": [
+                  2014.002737850787,
+                  2014.8431653569978
+                ],
+                "raw_date": "2014-XX-XX"
+              },
+              "branch_length": 5.791e-05,
+              "clade": 5,
+              "muts": [],
+              "strain": "KY887670",
+              "yvalue": 32
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY887671",
+                "clock_length": 5.791332140545383e-05,
+                "country": "Bangladesh",
+                "country_confidence": {
+                  "Bangladesh": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-01-01",
+                "div": 0.002884408743965182,
+                "num_date": 2014.002737850787,
+                "num_date_confidence": [
+                  2014.002737850787,
+                  2014.8431653569978
+                ],
+                "raw_date": "2014-XX-XX"
+              },
+              "branch_length": 5.791e-05,
+              "clade": 6,
+              "muts": [],
+              "strain": "KY887671",
+              "yvalue": 31
+            }
+          ],
+          "clade": 7,
+          "muts": [
+            "G625A"
+          ],
+          "strain": "NODE_0000004",
+          "yvalue": 31.5
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 8.521222476122004e-05,
+            "country": "Bangladesh",
+            "country_confidence": {
+              "Bangladesh": 0.9996451856587992
+            },
+            "country_entropy": 0.0036392350943393946,
+            "date": "2001-05-02",
+            "div": 0.002944327983073678,
+            "num_date": 2001.334382338988,
+            "num_date_confidence": [
+              1995.586843816949,
+              2003.8552318149339
+            ]
+          },
+          "branch_length": 8.521e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "JN808861",
+                "clock_length": 0.0001840788511529197,
+                "country": "Bangladesh",
+                "country_confidence": {
+                  "Bangladesh": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2005-01-01",
+                "div": 0.003243976814242577,
+                "num_date": 2005.0020533880904,
+                "num_date_confidence": [
+                  2004.1177726549429,
+                  2005.0020533880904
+                ],
+                "raw_date": "2004-XX-XX"
+              },
+              "branch_length": 0.00018408,
+              "clade": 8,
+              "muts": [
+                "T376C",
+                "C439T",
+                "G532A",
+                "A1297C"
+              ],
+              "strain": "JN808861",
+              "yvalue": 30
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 5.2646931630199794e-05,
+                "country": "Bangladesh",
+                "country_confidence": {
+                  "Bangladesh": 0.9984659687132764,
+                  "India": 0.0010862895476138564
+                },
+                "country_entropy": 0.012445418269080575,
+                "date": "2002-05-20",
+                "div": 0.0031240838053088796,
+                "num_date": 2002.3833438343188,
+                "num_date_confidence": [
+                  2001.386704620188,
+                  2004.0258053332109
+                ]
+              },
+              "branch_length": 5.265e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.165281552468547e-05,
+                    "country": "Thailand",
+                    "country_confidence": {
+                      "Bangladesh": 0.019456529909772848,
+                      "Thailand": 0.9799770197097584
+                    },
+                    "country_entropy": 0.10130147800332501,
+                    "date": "2003-08-11",
+                    "div": 0.0031240838053088796,
+                    "num_date": 2003.6117426709006,
+                    "num_date_confidence": [
+                      2002.6307062726228,
+                      2004.0472897249242
+                    ]
+                  },
+                  "branch_length": 6.165e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "Nvgp1": [
+                          "S406N"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.00014476382385107678,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "Thailand": 0.9995996968603383
+                        },
+                        "country_entropy": 0.0036519839750959173,
+                        "date": "2006-06-30",
+                        "div": 0.003183996674002024,
+                        "num_date": 2006.496083171564,
+                        "num_date_confidence": [
+                          2005.150730491573,
+                          2008.2573579739903
+                        ]
+                      },
+                      "branch_length": 0.00014476,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "FJ648080",
+                            "clock_length": 8.83976337721392e-05,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2008-04-03",
+                            "div": 0.003183996674002024,
+                            "num_date": 2008.2573579739903,
+                            "num_date_confidence": [
+                              2008.2573579739903,
+                              2008.2573579739903
+                            ],
+                            "raw_date": "2008-04-03"
+                          },
+                          "branch_length": 8.84e-05,
+                          "clade": 9,
+                          "muts": [],
+                          "strain": "FJ648080",
+                          "yvalue": 29
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "FJ648078",
+                            "clock_length": 8.83976337721392e-05,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2008-04-03",
+                            "div": 0.0032439106840223718,
+                            "num_date": 2008.2573579739903,
+                            "num_date_confidence": [
+                              2008.2573579739903,
+                              2008.2573579739903
+                            ],
+                            "raw_date": "2008-04-03"
+                          },
+                          "branch_length": 8.84e-05,
+                          "clade": 10,
+                          "muts": [
+                            "G1540A"
+                          ],
+                          "strain": "FJ648078",
+                          "yvalue": 28
+                        }
+                      ],
+                      "clade": 11,
+                      "muts": [
+                        "G1329A"
+                      ],
+                      "strain": "NODE_0000022",
+                      "yvalue": 28.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 2.6219637135804037e-05,
+                        "country": "Thailand",
+                        "country_confidence": {
+                          "Thailand": 0.9995996968603383
+                        },
+                        "country_entropy": 0.0036519839750959173,
+                        "date": "2004-02-17",
+                        "div": 0.0031240838053088796,
+                        "num_date": 2004.1341546885694,
+                        "num_date_confidence": [
+                          2003.3617712025828,
+                          2004.1341546885694
+                        ]
+                      },
+                      "branch_length": 2.622e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "FJ648077",
+                            "clock_length": 0.00020694182048741194,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2008-04-03",
+                            "div": 0.0031240838053088796,
+                            "num_date": 2008.2573579739903,
+                            "num_date_confidence": [
+                              2008.2573579739903,
+                              2008.2573579739903
+                            ],
+                            "raw_date": "2008-04-03"
+                          },
+                          "branch_length": 0.00020694,
+                          "clade": 12,
+                          "muts": [],
+                          "strain": "FJ648077",
+                          "yvalue": 27
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "FJ648075",
+                            "clock_length": 0.0,
+                            "country": "Thailand",
+                            "country_confidence": {
+                              "Thailand": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2004-02-17",
+                            "div": 0.0031240838053088796,
+                            "num_date": 2004.1341546885694,
+                            "num_date_confidence": [
+                              2004.1341546885694,
+                              2004.1341546885694
+                            ],
+                            "raw_date": "2004-02-18"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 13,
+                          "muts": [],
+                          "strain": "FJ648075",
+                          "yvalue": 26
+                        }
+                      ],
+                      "clade": 14,
+                      "muts": [],
+                      "strain": "NODE_0000010",
+                      "yvalue": 26.5
+                    }
+                  ],
+                  "clade": 15,
+                  "muts": [],
+                  "strain": "NODE_0000007",
+                  "yvalue": 27.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 8.331047839410034e-05,
+                    "country": "Bangladesh",
+                    "country_confidence": {
+                      "Bangladesh": 0.9997774522151879
+                    },
+                    "country_entropy": 0.002260801516589993,
+                    "date": "2004-01-15",
+                    "div": 0.0032439128438732884,
+                    "num_date": 2004.0432598310733,
+                    "num_date_confidence": [
+                      2002.8153265805743,
+                      2007.146244097314
+                    ]
+                  },
+                  "branch_length": 8.331e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "JN808860",
+                        "clock_length": 0.00029910366896411154,
+                        "country": "Bangladesh",
+                        "country_confidence": {
+                          "Bangladesh": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2010-01-01",
+                        "div": 0.0034236650703897815,
+                        "num_date": 2010.002737850787,
+                        "num_date_confidence": [
+                          2010.002737850787,
+                          2010.8781469840283
+                        ],
+                        "raw_date": "2010-XX-XX"
+                      },
+                      "branch_length": 0.0002991,
+                      "clade": 16,
+                      "muts": [
+                        "G133A",
+                        "T334C",
+                        "C1243T"
+                      ],
+                      "strain": "JN808860",
+                      "yvalue": 25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 4.8368757399479744e-05,
+                        "country": "Bangladesh",
+                        "country_confidence": {
+                          "Bangladesh": 0.9984584574841537,
+                          "India": 0.0014639205653818308
+                        },
+                        "country_entropy": 0.011912654793989438,
+                        "date": "2005-01-02",
+                        "div": 0.0033038284390797886,
+                        "num_date": 2005.006981030353,
+                        "num_date_confidence": [
+                          2003.3488855497906,
+                          2007.474944474358
+                        ]
+                      },
+                      "branch_length": 4.837e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00012614720719749133,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 0.9998746171177235
+                            },
+                            "country_entropy": 0.0013653729339845769,
+                            "date": "2007-07-09",
+                            "div": 0.0034835776369315868,
+                            "num_date": 2007.5203955636664,
+                            "num_date_confidence": [
+                              2006.8652495258023,
+                              2008.919176162592
+                            ]
+                          },
+                          "branch_length": 0.00012615,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "JN808857",
+                                "clock_length": 3.250132240126009e-05,
+                                "country": "Bangladesh",
+                                "country_confidence": {
+                                  "Bangladesh": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2008-03-02",
+                                "div": 0.0034835776369315868,
+                                "num_date": 2008.1679667457008,
+                                "num_date_confidence": [
+                                  2008.002737850787,
+                                  2009.0020533880904
+                                ],
+                                "raw_date": "2008-XX-XX"
+                              },
+                              "branch_length": 3.25e-05,
+                              "clade": 17,
+                              "muts": [],
+                              "strain": "JN808857",
+                              "yvalue": 24
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "JN808863",
+                                "clock_length": 3.250132240126009e-05,
+                                "country": "Bangladesh",
+                                "country_confidence": {
+                                  "Bangladesh": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2008-03-02",
+                                "div": 0.0034835776369315868,
+                                "num_date": 2008.1679667457008,
+                                "num_date_confidence": [
+                                  2008.002737850787,
+                                  2009.0020533880904
+                                ],
+                                "raw_date": "2008-XX-XX"
+                              },
+                              "branch_length": 3.25e-05,
+                              "clade": 18,
+                              "muts": [],
+                              "strain": "JN808863",
+                              "yvalue": 23
+                            }
+                          ],
+                          "clade": 19,
+                          "muts": [
+                            "A766G",
+                            "A1423G",
+                            "A1645G"
+                          ],
+                          "strain": "NODE_0000025",
+                          "yvalue": 23.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 7.496244896552581e-05,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 0.9627883569653789,
+                              "India": 0.03653923393222573
+                            },
+                            "country_entropy": 0.16307337108297504,
+                            "date": "2006-07-01",
+                            "div": 0.0034236550728571455,
+                            "num_date": 2006.5005670784988,
+                            "num_date_confidence": [
+                              2005.41401652813,
+                              2007.889716525773
+                            ]
+                          },
+                          "branch_length": 7.496e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "Nvgp1": [
+                                  "Q211R"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "FJ513078",
+                                "clock_length": 7.522154816240771e-05,
+                                "country": "India",
+                                "country_confidence": {
+                                  "India": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2007-12-30",
+                                "div": 0.0035434793245993188,
+                                "num_date": 2007.9993155373031,
+                                "num_date_confidence": [
+                                  2007.1780192235788,
+                                  2007.9993155373031
+                                ],
+                                "raw_date": "2007-XX-XX"
+                              },
+                              "branch_length": 7.522e-05,
+                              "clade": 20,
+                              "muts": [
+                                "A744G",
+                                "G745A"
+                              ],
+                              "strain": "FJ513078",
+                              "yvalue": 22
+                            },
+                            {
+                              "aa_muts": {
+                                "Nvgp1": [
+                                  "I318V"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "JN808859",
+                                "clock_length": 0.00022066258492668808,
+                                "country": "Bangladesh",
+                                "country_confidence": {
+                                  "Bangladesh": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-11-23",
+                                "div": 0.0036633321956390094,
+                                "num_date": 2010.897149137148,
+                                "num_date_confidence": [
+                                  2010.002737850787,
+                                  2010.9993155373031
+                                ],
+                                "raw_date": "2010-XX-XX"
+                              },
+                              "branch_length": 0.00022066,
+                              "clade": 21,
+                              "muts": [
+                                "A1064G",
+                                "C1375T",
+                                "C1585T",
+                                "A1669G"
+                              ],
+                              "strain": "JN808859",
+                              "yvalue": 21
+                            }
+                          ],
+                          "clade": 22,
+                          "muts": [
+                            "T1189C",
+                            "A1612G"
+                          ],
+                          "strain": "NODE_0000026",
+                          "yvalue": 21.5
+                        }
+                      ],
+                      "clade": 23,
+                      "muts": [
+                        "C661A"
+                      ],
+                      "strain": "NODE_0000024",
+                      "yvalue": 22.5
+                    }
+                  ],
+                  "clade": 24,
+                  "muts": [
+                    "T382C",
+                    "A1381G"
+                  ],
+                  "strain": "NODE_0000023",
+                  "yvalue": 23.75
+                },
+                {
+                  "aa_muts": {
+                    "Nvgp1": [
+                      "S503N",
+                      "K505R",
+                      "P520S"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0007257777790957129,
+                    "country": "India",
+                    "country_confidence": {
+                      "India": 0.9999755877734166
+                    },
+                    "country_entropy": 0.000284385636247488,
+                    "date": "2016-11-04",
+                    "div": 0.004023485234392213,
+                    "num_date": 2016.8440715702816,
+                    "num_date_confidence": [
+                      2016.1360400964277,
+                      2017.8710609278044
+                    ]
+                  },
+                  "branch_length": 0.00072578,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "MH523645",
+                        "clock_length": 7.876470328065529e-05,
+                        "country": "India",
+                        "country_confidence": {
+                          "India": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2018-05-31",
+                        "div": 0.004143307375763057,
+                        "num_date": 2018.413415468857,
+                        "num_date_confidence": [
+                          2018.413415468857,
+                          2018.413415468857
+                        ],
+                        "raw_date": "2018-05-31"
+                      },
+                      "branch_length": 7.876e-05,
+                      "clade": 25,
+                      "muts": [
+                        "T1189C",
+                        "A1612G"
+                      ],
+                      "strain": "MH523645",
+                      "yvalue": 20
+                    },
+                    {
+                      "aa_muts": {
+                        "Nvgp1": [
+                          "A413P"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "MH523643",
+                        "clock_length": 7.876470328065529e-05,
+                        "country": "India",
+                        "country_confidence": {
+                          "India": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2018-05-31",
+                        "div": 0.004143334383154818,
+                        "num_date": 2018.413415468857,
+                        "num_date_confidence": [
+                          2018.413415468857,
+                          2018.413415468857
+                        ],
+                        "raw_date": "2018-05-31"
+                      },
+                      "branch_length": 7.876e-05,
+                      "clade": 26,
+                      "muts": [
+                        "A1348G",
+                        "G1349C"
+                      ],
+                      "strain": "MH523643",
+                      "yvalue": 19
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "MH523644",
+                        "clock_length": 7.945176111759492e-05,
+                        "country": "India",
+                        "country_confidence": {
+                          "India": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2018-06-04",
+                        "div": 0.004023485234392213,
+                        "num_date": 2018.4271047227926,
+                        "num_date_confidence": [
+                          2018.4271047227926,
+                          2018.4271047227926
+                        ],
+                        "raw_date": "2018-06-05"
+                      },
+                      "branch_length": 7.945e-05,
+                      "clade": 27,
+                      "muts": [],
+                      "strain": "MH523644",
+                      "yvalue": 18
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 2.9303759226524857e-05,
+                        "country": "India",
+                        "country_confidence": {
+                          "India": 0.9999597583963312
+                        },
+                        "country_entropy": 0.00047842312118149784,
+                        "date": "2017-06-05",
+                        "div": 0.004083406521931369,
+                        "num_date": 2017.4279330441655,
+                        "num_date_confidence": [
+                          2016.866260470175,
+                          2018.0218114616857
+                        ]
+                      },
+                      "branch_length": 2.93e-05,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "Nvgp1": [
+                              "E509K"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "MH891773",
+                            "clock_length": 4.753718211068577e-05,
+                            "country": "India",
+                            "country_confidence": {
+                              "India": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2018-05-17",
+                            "div": 0.004143314681046139,
+                            "num_date": 2018.375085557837,
+                            "num_date_confidence": [
+                              2018.375085557837,
+                              2018.375085557837
+                            ],
+                            "raw_date": "2018-05-17"
+                          },
+                          "branch_length": 4.754e-05,
+                          "clade": 28,
+                          "muts": [
+                            "G1637A"
+                          ],
+                          "strain": "MH891773",
+                          "yvalue": 17
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 1.2771145825382521e-05,
+                            "country": "India",
+                            "country_confidence": {
+                              "India": 0.9999594066893067
+                            },
+                            "country_entropy": 0.00048239376435654644,
+                            "date": "2017-09-06",
+                            "div": 0.004083406521931369,
+                            "num_date": 2017.6823911826982,
+                            "num_date_confidence": [
+                              2017.1938397391673,
+                              2018.1420224383985
+                            ]
+                          },
+                          "branch_length": 1.277e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "MH523641",
+                                "clock_length": 3.5315682554857235e-05,
+                                "country": "India",
+                                "country_confidence": {
+                                  "India": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2018-05-21",
+                                "div": 0.004083406521931369,
+                                "num_date": 2018.3860369609856,
+                                "num_date_confidence": [
+                                  2018.3860369609856,
+                                  2018.3860369609856
+                                ],
+                                "raw_date": "2018-05-21"
+                              },
+                              "branch_length": 3.532e-05,
+                              "clade": 29,
+                              "muts": [],
+                              "strain": "MH523641",
+                              "yvalue": 16
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 1.663840556287648e-05,
+                                "country": "India",
+                                "country_confidence": {
+                                  "India": 0.9999593989671144
+                                },
+                                "country_entropy": 0.00048247885922697413,
+                                "date": "2018-01-05",
+                                "div": 0.004083406521931369,
+                                "num_date": 2018.0139023693662,
+                                "num_date_confidence": [
+                                  2017.5186562995223,
+                                  2018.2247263813754
+                                ]
+                              },
+                              "branch_length": 1.664e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "MH523642",
+                                    "clock_length": 1.8127630722426772e-05,
+                                    "country": "India",
+                                    "country_confidence": {
+                                      "India": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2018-05-17",
+                                    "div": 0.004083406521931369,
+                                    "num_date": 2018.375085557837,
+                                    "num_date_confidence": [
+                                      2018.375085557837,
+                                      2018.375085557837
+                                    ],
+                                    "raw_date": "2018-05-17"
+                                  },
+                                  "branch_length": 1.813e-05,
+                                  "clade": 30,
+                                  "muts": [],
+                                  "strain": "MH523642",
+                                  "yvalue": 15
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 4.4810396799894374e-07,
+                                    "country": "India",
+                                    "country_confidence": {
+                                      "India": 0.9999594269744013
+                                    },
+                                    "country_entropy": 0.0004821825371569517,
+                                    "date": "2018-01-08",
+                                    "div": 0.004083406521931369,
+                                    "num_date": 2018.022830597352,
+                                    "num_date_confidence": [
+                                      2017.731416447372,
+                                      2018.2288431693855
+                                    ]
+                                  },
+                                  "branch_length": 4.5e-07,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "MH396625",
+                                        "clock_length": 1.7679526754427828e-05,
+                                        "country": "India",
+                                        "country_confidence": {
+                                          "India": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2018-05-17",
+                                        "div": 0.004083406521931369,
+                                        "num_date": 2018.375085557837,
+                                        "num_date_confidence": [
+                                          2018.375085557837,
+                                          2018.375085557837
+                                        ],
+                                        "raw_date": "2018-05-17"
+                                      },
+                                      "branch_length": 1.768e-05,
+                                      "clade": 31,
+                                      "muts": [],
+                                      "strain": "MH396625",
+                                      "yvalue": 14
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 4.4198816886069435e-06,
+                                        "country": "India",
+                                        "country_confidence": {
+                                          "India": 0.9999604641166304
+                                        },
+                                        "country_entropy": 0.00047107226285209995,
+                                        "date": "2018-02-09",
+                                        "div": 0.004083406521931369,
+                                        "num_date": 2018.1108943374732,
+                                        "num_date_confidence": [
+                                          2017.9228998168699,
+                                          2018.325195949552
+                                        ]
+                                      },
+                                      "branch_length": 4.42e-06,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "MH423323",
+                                            "clock_length": 1.3259645065820885e-05,
+                                            "country": "India",
+                                            "country_confidence": {
+                                              "India": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2018-05-17",
+                                            "div": 0.004083406521931369,
+                                            "num_date": 2018.375085557837,
+                                            "num_date_confidence": [
+                                              2018.375085557837,
+                                              2018.375085557837
+                                            ],
+                                            "raw_date": "2018-05-17"
+                                          },
+                                          "branch_length": 1.326e-05,
+                                          "clade": 32,
+                                          "muts": [],
+                                          "strain": "MH423323",
+                                          "yvalue": 13
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "MH423324",
+                                            "clock_length": 1.3259645065820885e-05,
+                                            "country": "India",
+                                            "country_confidence": {
+                                              "India": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2018-05-17",
+                                            "div": 0.004083406521931369,
+                                            "num_date": 2018.375085557837,
+                                            "num_date_confidence": [
+                                              2018.375085557837,
+                                              2018.375085557837
+                                            ],
+                                            "raw_date": "2018-05-17"
+                                          },
+                                          "branch_length": 1.326e-05,
+                                          "clade": 33,
+                                          "muts": [],
+                                          "strain": "MH423324",
+                                          "yvalue": 12
+                                        }
+                                      ],
+                                      "clade": 34,
+                                      "muts": [],
+                                      "strain": "NODE_0000020",
+                                      "yvalue": 12.5
+                                    }
+                                  ],
+                                  "clade": 35,
+                                  "muts": [],
+                                  "strain": "NODE_0000019",
+                                  "yvalue": 13.25
+                                }
+                              ],
+                              "clade": 36,
+                              "muts": [],
+                              "strain": "NODE_0000018",
+                              "yvalue": 14.125
+                            }
+                          ],
+                          "clade": 37,
+                          "muts": [],
+                          "strain": "NODE_0000017",
+                          "yvalue": 15.0625
+                        }
+                      ],
+                      "clade": 38,
+                      "muts": [
+                        "T1171G"
+                      ],
+                      "strain": "NODE_0000014",
+                      "yvalue": 16.03125
+                    }
+                  ],
+                  "clade": 39,
+                  "muts": [
+                    "A172G",
+                    "T199C",
+                    "A271G",
+                    "C505T",
+                    "C610T",
+                    "T697C",
+                    "A1087G",
+                    "T1330C",
+                    "C1399T",
+                    "T1501C",
+                    "C1585T",
+                    "G1620A",
+                    "A1626G",
+                    "A1642G",
+                    "C1670T"
+                  ],
+                  "strain": "NODE_0000011",
+                  "yvalue": 18.015625
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 4.023411108278207e-05,
+                    "country": "Bangladesh",
+                    "country_confidence": {
+                      "Bangladesh": 0.9998691894556302
+                    },
+                    "country_entropy": 0.001433555431890105,
+                    "date": "2003-03-08",
+                    "div": 0.0032439154148364555,
+                    "num_date": 2003.184986627505,
+                    "num_date_confidence": [
+                      2001.8458617648716,
+                      2004.581873924954
+                    ]
+                  },
+                  "branch_length": 4.023e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "Nvgp1": [
+                          "I436M"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 2.665868690959652e-05,
+                        "country": "Bangladesh",
+                        "country_confidence": {
+                          "Bangladesh": 0.999924724717784
+                        },
+                        "country_entropy": 0.0008784949028136414,
+                        "date": "2003-09-18",
+                        "div": 0.0033637446825394244,
+                        "num_date": 2003.7161464732612,
+                        "num_date_confidence": [
+                          2002.8797897616255,
+                          2004.6591245263508
+                        ]
+                      },
+                      "branch_length": 2.666e-05,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "Nvgp1": [
+                              "N380I"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "JN808862",
+                            "clock_length": 6.45391215303413e-05,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2005-01-01",
+                            "div": 0.0034836041136245824,
+                            "num_date": 2005.0020533880904,
+                            "num_date_confidence": [
+                              2004.2234280221073,
+                              2005.0020533880904
+                            ],
+                            "raw_date": "2004-XX-XX"
+                          },
+                          "branch_length": 6.454e-05,
+                          "clade": 40,
+                          "muts": [
+                            "A1251T",
+                            "T1252A"
+                          ],
+                          "strain": "JN808862",
+                          "yvalue": 11
+                        },
+                        {
+                          "aa_muts": {
+                            "Nvgp1": [
+                              "K414N"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "JN808858",
+                            "clock_length": 6.45391215303413e-05,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2005-01-01",
+                            "div": 0.0035435588208395066,
+                            "num_date": 2005.0020533880904,
+                            "num_date_confidence": [
+                              2004.3218054304102,
+                              2005.0020533880904
+                            ],
+                            "raw_date": "2004-XX-XX"
+                          },
+                          "branch_length": 6.454e-05,
+                          "clade": 41,
+                          "muts": [
+                            "A571T",
+                            "A1354T",
+                            "A1576C"
+                          ],
+                          "strain": "JN808858",
+                          "yvalue": 10
+                        }
+                      ],
+                      "clade": 42,
+                      "muts": [
+                        "A1420G",
+                        "A1453G"
+                      ],
+                      "strain": "NODE_0000029",
+                      "yvalue": 10.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 2.0614132100030855e-05,
+                        "country": "Bangladesh",
+                        "country_confidence": {
+                          "Bangladesh": 0.9999221954688038
+                        },
+                        "country_entropy": 0.0009051784142065067,
+                        "date": "2003-08-05",
+                        "div": 0.0032439154148364555,
+                        "num_date": 2003.5957120043317,
+                        "num_date_confidence": [
+                          2001.943381121486,
+                          2004.62584456763
+                        ]
+                      },
+                      "branch_length": 2.061e-05,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "Nvgp1": [
+                              "E188D"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "AY988601",
+                            "clock_length": 7.058367633990697e-05,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2005-01-01",
+                            "div": 0.003363772829273018,
+                            "num_date": 2005.0020533880904,
+                            "num_date_confidence": [
+                              2004.196265438742,
+                              2005.0020533880904
+                            ],
+                            "raw_date": "2004-XX-XX"
+                          },
+                          "branch_length": 7.058e-05,
+                          "clade": 43,
+                          "muts": [
+                            "G676T",
+                            "T1609C"
+                          ],
+                          "strain": "AY988601",
+                          "yvalue": 9
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00019623461718878195,
+                            "country": "Bangladesh",
+                            "country_confidence": {
+                              "Bangladesh": 0.9999239680816429
+                            },
+                            "country_entropy": 0.0008869316103920812,
+                            "date": "2007-07-03",
+                            "div": 0.0033637470243640315,
+                            "num_date": 2007.505580084164,
+                            "num_date_confidence": [
+                              2006.1252858817318,
+                              2010.8854532555677
+                            ]
+                          },
+                          "branch_length": 0.00019623,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "Nvgp1": [
+                                  "R381K"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "JN808864",
+                                "clock_length": 0.000125331286986617,
+                                "country": "Bangladesh",
+                                "country_confidence": {
+                                  "Bangladesh": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2010-01-01",
+                                "div": 0.003423659893057176,
+                                "num_date": 2010.002737850787,
+                                "num_date_confidence": [
+                                  2010.002737850787,
+                                  2010.9304007406197
+                                ],
+                                "raw_date": "2010-XX-XX"
+                              },
+                              "branch_length": 0.00012533,
+                              "clade": 44,
+                              "muts": [
+                                "G1254A"
+                              ],
+                              "strain": "JN808864",
+                              "yvalue": 8
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00013193482031169303,
+                                "country": "Bangladesh",
+                                "country_confidence": {
+                                  "Bangladesh": 0.9999215701002477
+                                },
+                                "country_entropy": 0.0009122476363718592,
+                                "date": "2010-02-18",
+                                "div": 0.0033637470243640315,
+                                "num_date": 2010.134309662793,
+                                "num_date_confidence": [
+                                  2007.5007299518215,
+                                  2012.8802997353332
+                                ]
+                              },
+                              "branch_length": 0.00013193,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00010466776811670362,
+                                    "country": "Bangladesh",
+                                    "country_confidence": {
+                                      "Bangladesh": 0.999926499492429
+                                    },
+                                    "country_entropy": 0.0008601602196917591,
+                                    "date": "2012-03-21",
+                                    "div": 0.0033637470243640315,
+                                    "num_date": 2012.2197580480445,
+                                    "num_date_confidence": [
+                                      2010.9648609755786,
+                                      2013.2765229295003
+                                    ]
+                                  },
+                                  "branch_length": 0.00010467,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "MK575069",
+                                        "clock_length": 5.3038580263283484e-05,
+                                        "country": "Bangladesh",
+                                        "country_confidence": {
+                                          "Bangladesh": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-04-10",
+                                        "div": 0.0033637470243640315,
+                                        "num_date": 2013.2765229295003,
+                                        "num_date_confidence": [
+                                          2013.2765229295003,
+                                          2013.2765229295003
+                                        ],
+                                        "raw_date": "2013-04-11"
+                                      },
+                                      "branch_length": 5.304e-05,
+                                      "clade": 45,
+                                      "muts": [],
+                                      "strain": "MK575069",
+                                      "yvalue": 7
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "MK575062",
+                                        "clock_length": 5.3038580263283484e-05,
+                                        "country": "Bangladesh",
+                                        "country_confidence": {
+                                          "Bangladesh": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-04-10",
+                                        "div": 0.0033637470243640315,
+                                        "num_date": 2013.2765229295003,
+                                        "num_date_confidence": [
+                                          2013.2765229295003,
+                                          2013.2765229295003
+                                        ],
+                                        "raw_date": "2013-04-11"
+                                      },
+                                      "branch_length": 5.304e-05,
+                                      "clade": 46,
+                                      "muts": [],
+                                      "strain": "MK575062",
+                                      "yvalue": 6
+                                    }
+                                  ],
+                                  "clade": 47,
+                                  "muts": [],
+                                  "strain": "NODE_0000032",
+                                  "yvalue": 6.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 8.425366359908623e-05,
+                                    "country": "Bangladesh",
+                                    "country_confidence": {
+                                      "Bangladesh": 0.999921575281388
+                                    },
+                                    "country_entropy": 0.00091219422125395,
+                                    "date": "2011-10-23",
+                                    "div": 0.0033637470243640315,
+                                    "num_date": 2011.8130181120678,
+                                    "num_date_confidence": [
+                                      2009.6559578501362,
+                                      2013.0896816080615
+                                    ]
+                                  },
+                                  "branch_length": 8.425e-05,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.041410451761739e-05,
+                                        "country": "Bangladesh",
+                                        "country_confidence": {
+                                          "Bangladesh": 0.9999264996678779
+                                        },
+                                        "country_entropy": 0.0008601584052565427,
+                                        "date": "2012-03-21",
+                                        "div": 0.0033637470243640315,
+                                        "num_date": 2012.2197580480445,
+                                        "num_date_confidence": [
+                                          2011.4743635239706,
+                                          2013.2765229295003
+                                        ]
+                                      },
+                                      "branch_length": 2.041e-05,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "MK575061",
+                                            "clock_length": 5.3038580263283484e-05,
+                                            "country": "Bangladesh",
+                                            "country_confidence": {
+                                              "Bangladesh": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2013-04-10",
+                                            "div": 0.0033637470243640315,
+                                            "num_date": 2013.2765229295003,
+                                            "num_date_confidence": [
+                                              2013.2765229295003,
+                                              2013.2765229295003
+                                            ],
+                                            "raw_date": "2013-04-11"
+                                          },
+                                          "branch_length": 5.304e-05,
+                                          "clade": 48,
+                                          "muts": [],
+                                          "strain": "MK575061",
+                                          "yvalue": 5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "MK575068",
+                                            "clock_length": 5.3038580263283484e-05,
+                                            "country": "Bangladesh",
+                                            "country_confidence": {
+                                              "Bangladesh": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2013-04-10",
+                                            "div": 0.0033637470243640315,
+                                            "num_date": 2013.2765229295003,
+                                            "num_date_confidence": [
+                                              2013.2765229295003,
+                                              2013.2765229295003
+                                            ],
+                                            "raw_date": "2013-04-11"
+                                          },
+                                          "branch_length": 5.304e-05,
+                                          "clade": 49,
+                                          "muts": [],
+                                          "strain": "MK575068",
+                                          "yvalue": 4
+                                        }
+                                      ],
+                                      "clade": 50,
+                                      "muts": [],
+                                      "strain": "NODE_0000034",
+                                      "yvalue": 4.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.041410451761739e-05,
+                                        "country": "Bangladesh",
+                                        "country_confidence": {
+                                          "Bangladesh": 0.9999241179922016
+                                        },
+                                        "country_entropy": 0.0008853733335299485,
+                                        "date": "2012-03-21",
+                                        "div": 0.0033637470243640315,
+                                        "num_date": 2012.2197580480445,
+                                        "num_date_confidence": [
+                                          2010.9186158926582,
+                                          2013.1992685839666
+                                        ]
+                                      },
+                                      "branch_length": 2.041e-05,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "MK575064",
+                                            "clock_length": 5.3038580263283484e-05,
+                                            "country": "Bangladesh",
+                                            "country_confidence": {
+                                              "Bangladesh": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2013-04-10",
+                                            "div": 0.0033637470243640315,
+                                            "num_date": 2013.2765229295003,
+                                            "num_date_confidence": [
+                                              2013.2765229295003,
+                                              2013.2765229295003
+                                            ],
+                                            "raw_date": "2013-04-11"
+                                          },
+                                          "branch_length": 5.304e-05,
+                                          "clade": 51,
+                                          "muts": [],
+                                          "strain": "MK575064",
+                                          "yvalue": 3
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0,
+                                            "country": "Bangladesh",
+                                            "country_confidence": {
+                                              "Bangladesh": 0.9999265815390298
+                                            },
+                                            "country_entropy": 0.0008592974061335843,
+                                            "date": "2012-03-21",
+                                            "div": 0.0033637470243640315,
+                                            "num_date": 2012.2197580480445,
+                                            "num_date_confidence": [
+                                              2011.6853820138817,
+                                              2013.2765229295003
+                                            ]
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "MK575060",
+                                                "clock_length": 5.3038580263283484e-05,
+                                                "country": "Bangladesh",
+                                                "country_confidence": {
+                                                  "Bangladesh": 0.9999999999999999
+                                                },
+                                                "country_entropy": -9.99866855976916e-13,
+                                                "date": "2013-04-10",
+                                                "div": 0.0033637470243640315,
+                                                "num_date": 2013.2765229295003,
+                                                "num_date_confidence": [
+                                                  2013.2765229295003,
+                                                  2013.2765229295003
+                                                ],
+                                                "raw_date": "2013-04-11"
+                                              },
+                                              "branch_length": 5.304e-05,
+                                              "clade": 52,
+                                              "muts": [],
+                                              "strain": "MK575060",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "MK575067",
+                                                "clock_length": 5.3038580263283484e-05,
+                                                "country": "Bangladesh",
+                                                "country_confidence": {
+                                                  "Bangladesh": 0.9999999999999999
+                                                },
+                                                "country_entropy": -9.99866855976916e-13,
+                                                "date": "2013-04-10",
+                                                "div": 0.0033637470243640315,
+                                                "num_date": 2013.2765229295003,
+                                                "num_date_confidence": [
+                                                  2013.2765229295003,
+                                                  2013.2765229295003
+                                                ],
+                                                "raw_date": "2013-04-11"
+                                              },
+                                              "branch_length": 5.304e-05,
+                                              "clade": 53,
+                                              "muts": [],
+                                              "strain": "MK575067",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 54,
+                                          "muts": [],
+                                          "strain": "NODE_0000036",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 55,
+                                      "muts": [],
+                                      "strain": "NODE_0000035",
+                                      "yvalue": 2.25
+                                    }
+                                  ],
+                                  "clade": 56,
+                                  "muts": [],
+                                  "strain": "NODE_0000033",
+                                  "yvalue": 3.375
+                                }
+                              ],
+                              "clade": 57,
+                              "muts": [],
+                              "strain": "NODE_0000031",
+                              "yvalue": 4.9375
+                            }
+                          ],
+                          "clade": 58,
+                          "muts": [
+                            "G787A",
+                            "A997G"
+                          ],
+                          "strain": "NODE_0000030",
+                          "yvalue": 6.46875
+                        }
+                      ],
+                      "clade": 59,
+                      "muts": [],
+                      "strain": "NODE_0000028",
+                      "yvalue": 7.734375
+                    }
+                  ],
+                  "clade": 60,
+                  "muts": [
+                    "G745A",
+                    "A1231G"
+                  ],
+                  "strain": "NODE_0000027",
+                  "yvalue": 9.1171875
+                }
+              ],
+              "clade": 61,
+              "muts": [
+                "C124T",
+                "G625A",
+                "T1378C",
+                "C1693T"
+              ],
+              "strain": "NODE_0000009",
+              "yvalue": 18.30859375
+            }
+          ],
+          "clade": 62,
+          "muts": [
+            "T304A"
+          ],
+          "strain": "NODE_0000008",
+          "yvalue": 24.154296875
+        }
+      ],
+      "clade": 63,
+      "muts": [
+        "G169A",
+        "A190G",
+        "A232G",
+        "G271A",
+        "T289C",
+        "T370C",
+        "A442G",
+        "G457A",
+        "A463G",
+        "G472A",
+        "G478A",
+        "A511G",
+        "C553T",
+        "C565T",
+        "C592T",
+        "C640T",
+        "T643C",
+        "A676G",
+        "A700G",
+        "C706T",
+        "A760G",
+        "G766A",
+        "C775T",
+        "C778T",
+        "A787G",
+        "G796A",
+        "A820C",
+        "A859G",
+        "T901C",
+        "C931T",
+        "C967T",
+        "A1096G",
+        "T1097C",
+        "C1114T",
+        "T1159C",
+        "G1180A",
+        "A1249G",
+        "G1258A",
+        "C1262T",
+        "G1271A",
+        "T1294C",
+        "G1303A",
+        "T1342C",
+        "G1348A",
+        "A1351T",
+        "T1402C",
+        "A1433C",
+        "C1447T",
+        "G1459A",
+        "C1474T",
+        "A1510C",
+        "C1513A",
+        "A1537T",
+        "A1540G",
+        "A1558G",
+        "A1579G",
+        "C1588T",
+        "A1591G",
+        "C1594T",
+        "G1626A",
+        "A1628G",
+        "C1629A",
+        "G1634A",
+        "G1645A",
+        "T1657C",
+        "C1663T",
+        "T1672C",
+        "C1684T",
+        "T1690C"
+      ],
+      "strain": "NODE_0000006",
+      "yvalue": 27.8271484375
+    }
+  ],
+  "clade": 64,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 31.03857421875
+}
